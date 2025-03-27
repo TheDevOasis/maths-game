@@ -16,7 +16,7 @@ Features used:
 Flow Chart & Game Logic:  
 ![image](https://github.com/user-attachments/assets/60f33d5f-d2ea-4616-8e58-618b2c9b7681)  
 /if we are playing  
-	//reload page  
+	  //reload page  
 //if we are not playing  
 	//set score to 0  
 	//show countdown box  
