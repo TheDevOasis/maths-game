@@ -11,7 +11,7 @@ Features used:
 •	Box shadows to add some 3D effects to the page.   
 •	Use transitions for a nice interactivity and the best user experience.   
 •	Nice JS functions to change in HTML.
-•	Show and hide elements and some functions to create timing events.  
+•	Show and hide elements and some functions to create timing events.   
 
 ![image](https://github.com/user-attachments/assets/4815ad19-0216-416e-a955-24cc564279bc)
 ![image](https://github.com/user-attachments/assets/fbe8c572-79f5-473d-8ef1-f55e9d7ca81f)
