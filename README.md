@@ -21,9 +21,9 @@ Flow Chart & Game Logic:
 	-----//set score to 0  
 	-----//show countdown box  
 	-----//reduce time by 1 sec in loops  
-		---//timeleft?  
-			---//yes==> continue  
-			---//no==>gameover  
+		---------//timeleft?  
+			---------//yes==> continue  
+			--------//no==>gameover  
 	-----//change button to reset  
 	-----//generate new Q&A  
 
