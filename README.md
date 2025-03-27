@@ -30,11 +30,11 @@ Flow Chart & Game Logic:
 ![image](https://github.com/user-attachments/assets/680947b5-9163-43cf-a32e-3175df80bfc9)  
 //if we click on answer box  
 	-----//if we are playing  
-		-----//correct?  
-			-----//yes  
-				-----//increase score  
-				-----//show correct box for 1 sec  
-				-----//generate new Q&A  
-			-----//no  
+		--------------//correct?  
+			--------------//yes  
+				-------------------//increase score  
+				-------------------//show correct box for 1 sec  
+				-------------------//generate new Q&A  
+			--------------//no  
 
 
