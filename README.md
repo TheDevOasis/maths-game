@@ -22,8 +22,8 @@ Flow Chart & Game Logic:
 	-----//show countdown box  
 	-----//reduce time by 1 sec in loops  
 		---------//timeleft?  
-			---------//yes==> continue  
-			--------//no==>gameover  
+			---------------//yes==> continue  
+			---------------//no==>gameover  
 	-----//change button to reset  
 	-----//generate new Q&A  
 
