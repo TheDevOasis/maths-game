@@ -12,9 +12,11 @@ Features used:
 •	Use transitions for a nice interactivity and the best user experience.   
 •	Nice JS functions to change in HTML.
 •	Show and hide elements and some functions to create timing events.
-
-![image](https://github.com/user-attachments/assets/dcb22431-733e-4f07-adcc-0afa658a4d64)
-
+![image](https://github.com/user-attachments/assets/4815ad19-0216-416e-a955-24cc564279bc)
+![image](https://github.com/user-attachments/assets/fbe8c572-79f5-473d-8ef1-f55e9d7ca81f)
+![image](https://github.com/user-attachments/assets/046e3fbd-580e-48d6-b08b-4109463837c5)
+![image](https://github.com/user-attachments/assets/940134d5-909d-47f9-b954-d6f350dbdea2)
+![image](https://github.com/user-attachments/assets/d5400e2d-3e28-46c9-a787-2c3d7a323711)
 
 Flow Chart & Game Logic:  
 ![image](https://github.com/user-attachments/assets/60f33d5f-d2ea-4616-8e58-618b2c9b7681)  
