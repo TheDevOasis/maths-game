@@ -13,6 +13,9 @@ Features used:
 •	Nice JS functions to change in HTML.
 •	Show and hide elements and some functions to create timing events.
 
+![image](https://github.com/user-attachments/assets/dcb22431-733e-4f07-adcc-0afa658a4d64)
+
+
 Flow Chart & Game Logic:  
 ![image](https://github.com/user-attachments/assets/60f33d5f-d2ea-4616-8e58-618b2c9b7681)  
 //if we are playing  
